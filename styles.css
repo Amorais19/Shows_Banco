@@ -1,0 +1,27 @@
+header {
+    display: flex;
+    padding: 1rem;
+    background-color: black;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+
+.menu {
+    color: white;
+    text-decoration: none;
+    padding-inline: 1rem;
+}
+
+.jumbotron {
+    background-color: aliceblue;
+}
+
+.btn-secondary {
+    background-color: black;
+    border-color: black;
+}
+
+table {
+    border: 2px solid #5f9ea0;
+}
